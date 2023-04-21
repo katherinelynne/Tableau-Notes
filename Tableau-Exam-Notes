@@ -1,0 +1,51 @@
+Connecting to Data and Creating Charts
+  - Connect to data
+  - Working with Data Extract
+  - Introduction to Tableau Desktop
+  - Compare multiple measure in Views
+  - Build Scatter Plot, Text Tables, Highlight Tables
+  - Show breakdowns using Pie Charts and Tree Maps
+  - Bar-in bar charts and Bullet Graphs to compare measures
+  - Use Histograms and Box & Whiskers Plots to show distribution
+
+Preparing Data
+  - Create relationships, joins, unions
+  - Blend multiple data sources
+  - Perform data transformation in Tableau Prep 
+  - Customizing fields
+
+Calculations
+  - Create calculated fields for deeper analysis
+  - Work with date, string and type conversion functions
+  - Work with aggregate functions
+  - Aggregate dimensions in advanced calculations
+  - LOD expressions
+
+Table Calculations
+  - Create Quick Table Calculations
+  - Create custom table calculations
+
+Filters, Parameters and Grouping Data
+  - Create and use filters
+  - Create Parameters to enable interactivity
+  - Structure the data
+  - Create groups, hierarchies and sets
+
+Mapping and Analytics
+  - Build symbol, filled, and density maps.
+  - Use text tables to analyze data.
+  - Add totals and subtotals to text tables.
+  - Use the Analytics pane to add reference lines and bands.
+  - Analyze data using trend lines.
+  - Analyze data using forecasts.
+
+Dashboards
+  - Build and refine dashboards
+  - Create stories with data
+  - Add interactivity to dashboards
+
+Formatting and Publishing
+  - Format dashboards
+  - Publish Data sources, Extracts 
+  - Publishing and managing Prep Flows
+  - Publish and manage workbooks
