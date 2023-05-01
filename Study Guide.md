@@ -64,6 +64,7 @@
 <li>Publishing and managing Prep Flows</li>
 <li>Publish and manage workbooks</li>
 </ul>
+<p><a href="https://learningtableau.com/wp-content/uploads/dlm_uploads/2022/02/Tableau-Desktop-Specialist-Study-Guide.pdf">https://learningtableau.com/wp-content/uploads/dlm_uploads/2022/02/Tableau-Desktop-Specialist-Study-Guide.pdf</a></p>
 <h1 id="exam-prep"><span class="prefix"></span><span class="content">Exam Prep</span><span class="suffix"></span></h1>
 <h2 id="domain-1-connect-to-and-transform-data"><span class="prefix"></span><span class="content"><strong>Domain 1: Connect to and Transform Data</strong></span><span class="suffix"></span></h2>
 <p>1.1 Connect to Data Sources</p>
