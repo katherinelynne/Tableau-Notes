@@ -67,6 +67,81 @@
 <p><a href="https://learningtableau.com/wp-content/uploads/dlm_uploads/2022/02/Tableau-Desktop-Specialist-Study-Guide.pdf">Study Guide</a></p>
 <p><a href="https://mkt.tableau.com/files/DesktopSpecialist_ExamGuide.pdf">Exam Guide</a></p>
 <p><a href="https://learningtableau.com/specialist-practice-questions/">Practice Questions</a></p>
+<h2 id="list-of-test-focus-areas."><span class="prefix"></span><span class="content">List of test focus areas.</span><span class="suffix"></span></h2>
+<ul>
+<li><a href="https://anthonysmoak.com/2020/10/06/understanding-tableau-context-filters/">Context filters</a></li>
+<li><a href="https://www.youtube.com/watch?v=v1drTEAuKiQ&amp;lc=UgxL7MNYpP45u2uJp4V4AaABAg">Table calculations</a></li>
+<li>Top N filters</li>
+<li><a href="https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_create.htm">Combining sets</a></li>
+<li>When to use <a href="https://help.tableau.com/current/pro/desktop/en-us/examples_spatial_files.htm">spatial files</a></li>
+<li>Geographic search</li>
+<li>When to use the <a href="https://help.tableau.com/current/pro/desktop/en-us/actions_highlight_advanced.htm">highlight action</a></li>
+<li><a href="https://help.tableau.com/current/pro/desktop/en-us/viz_in_tooltip.htm">Viz in tooltips</a></li>
+<li><a href="https://help.tableau.com/current/pro/desktop/en-us/sortgroup_groups_creating.htm">Groups</a> vs <a href="https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_create.htm">Sets</a></li>
+<li>When to create an <a href="https://help.tableau.com/current/pro/desktop/en-us/extracting_data.htm">extract</a></li>
+<li>Using <a href="https://kb.tableau.com/articles/HowTo/connecting-multiple-data-sources-without-joining-or-blending?_ga=2.260991181.1784477899.1605925597-2080858872.1592314282">multiple data sources</a></li>
+<li><a href="https://help.tableau.com/current/pro/desktop/en-us/filtering_global.htm">Applying dashboard filters to all worksheets</a></li>
+<li>Interpreting a dashboard to answer questions</li>
+<li><a href="https://help.tableau.com/current/pro/desktop/en-us/actions_parameters.htm">Parameter actions</a></li>
+<li><a href="https://kb.tableau.com/articles/HowTo/creating-combo-chart-that-shows-more-than-two-measures?_ga=2.70648016.1784477899.1605925597-2080858872.1592314282">Combined axis charts</a></li>
+<li>Nested sorts</li>
+<li><a href="https://kb.tableau.com/articles/HowTo/deciding-between-joining-tables-and-blending-data?_ga=2.161311997.1784477899.1605925597-2080858872.1592314282">Joining tables vs Blending data</a></li>
+</ul>
+<p>I’m Tableau certified and with some study time and focus, you can become Tableau certified as well.</p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2020/11/tableau-desktop-certified-associate.png?w=425" alt=""></p>
+<p>As of this year, I can say that I, Anthony B. Smoak passed the Tableau Desktop Certified Associate exam. I already hold the Certified Business Professional (CBIP) designation which is product agnostic and a great certification for a data consultant and data blogger to showcase (apologies for the humblebrag). Read up on my experiences with that certification <a href="https://anthonysmoak.com/2018/01/15/my-journey-to-obtaining-the-certified-business-information-professional-cbip-certification/">here</a>.</p>
+<p>Although my Tableau certification aim started as a mere whim, it morphed into a full time goal by the time 2020 rolled around. We all know 2020 has been a challenging year for most of us, I’ve tried to do my best to make it redeemable by continuing to learn and up-skill. And because you’re reading this post, my assumption is you are too! Great minds think alike.</p>
+<p>Why did I want to pursue the Tableau Desktop Certified Associate certification?</p>
+<ul>
+<li>I run a <a href="https://www.youtube.com/c/anthonysmoak">YouTube Channel</a> and blog focused on data tools; Tableau content is the most salient feature of these passion projects. Becoming Tableau Certified helps convince you that I know what I’m talking about.</li>
+<li>Clients respect credibility. I recently delivered a data visualization workshop at a well known Fortune 20 company and being certified as well being a <a href="https://www.tableau.com/tableau-ambassadors#tableau-public">Tableau Public Ambassador</a> helped establish my bona fides.</li>
+<li>The more you study, the more you learn. It was refreshing to brush up on some basic functionality and even learn some new intermediate tricks while prepping for the exam.</li>
+<li>Just like you, I found myself with a bit more time in 2020 to start acting on neglected data goals. When the world shakes off 2020 (please make it stop) and starts getting back to normal, people will ask ‘How did you better yourself during the downtime’. My answer will be Tableau (and fostering a boxer puppy, but that is for another blog post).</li>
+</ul>
+<p>As my exam time came about, I logged in to the testing website and my proctor had me share my license to prove that it was indeed me taking the test. I also had to show that my physical table (not in the Tableau context) was clear of any papers or other materials. Once that was clear it was off to the races. Although you will have 2 hours to complete the exam, make sure to account for at least 30 minutes of setup time before you actually start the test.</p>
+<p>Of course I don’t remember exact questions and wouldn’t share any even if I did but I do recall thinking that I had a good handle on most of the material. There were only two questions where I was completely stumped and had to take a guess. The test is timed and by the time I finished answering every question, there was only about 10 minutes left to review my 36 answers.</p>
+<p>For some of the more esoteric questions on product minutiae, Google is your friend. The test is mostly open internet which can be helpful on these small detail-like questions. But remember, you are balancing Google searching against test answering time.</p>
+<p>I did not need to use Google during the hands-on assessment questions. You either need to confidently know how Tableau works or you’ll find yourself playing defense and guessing.</p>
+<p>Fun Fact: the Firefox browser on the virtual machine only displayed search results in Japanese (ども ありがと**)** and it took me awhile to figure out how to set English as the default language.</p>
+<p>In short, the test was by no means easy, but with time and adequate preparation you’ll be successful. I’d say a good 7-8 months of Tableau use and 3 to 4 weeks of study time should get you where you need to be.</p>
+<p>To prepare for the test, take a look at the official Exam Guide.</p>
+<p><a href="https://mkt.tableau.com/files/DesktopCA_ExamGuide.pdf">Click to access DesktopCA_ExamGuide.pdf</a></p>
+<p>However, here is the section you came for, my abridged list of test focus areas.</p>
+<ul>
+<li><a href="https://anthonysmoak.com/2020/10/06/understanding-tableau-context-filters/">Context filters</a></li>
+<li><a href="https://www.youtube.com/watch?v=v1drTEAuKiQ&amp;lc=UgxL7MNYpP45u2uJp4V4AaABAg">Table calculations</a></li>
+<li>Top N filters</li>
+<li><a href="https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_create.htm">Combining sets</a></li>
+<li>When to use <a href="https://help.tableau.com/current/pro/desktop/en-us/examples_spatial_files.htm">spatial files</a></li>
+<li>Geographic search</li>
+<li>When to use the <a href="https://help.tableau.com/current/pro/desktop/en-us/actions_highlight_advanced.htm">highlight action</a></li>
+<li><a href="https://help.tableau.com/current/pro/desktop/en-us/viz_in_tooltip.htm">Viz in tooltips</a></li>
+<li><a href="https://help.tableau.com/current/pro/desktop/en-us/sortgroup_groups_creating.htm">Groups</a> vs <a href="https://help.tableau.com/current/pro/desktop/en-us/sortgroup_sets_create.htm">Sets</a></li>
+<li>When to create an <a href="https://help.tableau.com/current/pro/desktop/en-us/extracting_data.htm">extract</a></li>
+<li>Using <a href="https://kb.tableau.com/articles/HowTo/connecting-multiple-data-sources-without-joining-or-blending?_ga=2.260991181.1784477899.1605925597-2080858872.1592314282">multiple data sources</a></li>
+<li><a href="https://help.tableau.com/current/pro/desktop/en-us/filtering_global.htm">Applying dashboard filters to all worksheets</a></li>
+<li>Interpreting a dashboard to answer questions</li>
+<li><a href="https://help.tableau.com/current/pro/desktop/en-us/actions_parameters.htm">Parameter actions</a></li>
+<li><a href="https://kb.tableau.com/articles/HowTo/creating-combo-chart-that-shows-more-than-two-measures?_ga=2.70648016.1784477899.1605925597-2080858872.1592314282">Combined axis charts</a></li>
+<li>Nested sorts</li>
+<li><a href="https://kb.tableau.com/articles/HowTo/deciding-between-joining-tables-and-blending-data?_ga=2.161311997.1784477899.1605925597-2080858872.1592314282">Joining tables vs Blending data</a></li>
+</ul>
+<h2 id="how-to-get-started-with-tableau"><span class="prefix"></span><span class="content"><strong>How to Get Started with Tableau</strong></span><span class="suffix"></span></h2>
+<p>Using Tableau Public is the best way to get started learning Tableau if you don’t have a Desktop license. <a href="https://public.tableau.com/en-us/s/download">Download Tableau Public</a> and practice at home because it’s free to use! The functionality is practically the same as Tableau Desktop, you just have to save your content to the cloud instead of locally.</p>
+<p>Practice on this <a href="https://data.world/annjackson/20194-tableau-superstore">dataset</a>. It is the default dataset (Tableau Superstore) that comes with the licensed version of Tableau, but you can download it from data.world thanks to Tableau Zen Master Ann Jackson.</p>
+<p><strong>Fast Track:</strong></p>
+<p>If you just want to jump right in to dash-boarding you can start with two video series I have in this playlist:</p>
+<ul>
+<li>Build a Tableau Dashboard Parts 1-4</li>
+<li>Tableau How to Build A Dashboard</li>
+<li>Tableau How to Format A Dashboard</li>
+</ul>
+<p><strong>Slower Track to learn functionality:</strong></p>
+<p>Watch everything in the Creator section except Tableau Prep which is a separate tool.</p>
+<p><a href="https://www.tableau.com/learn/training/20202">https://www.tableau.com/learn/training/20202</a></p>
+<p><a href="https://www.tableau.com/learn/starter-kits">https://www.tableau.com/learn/starter-kits</a></p>
+<p>Linkedin also has 4.5 hours of free Tableau training in a course here:</p>
+<p><a href="https://www.linkedin.com/learning/paths/become-a-data-analyst">https://www.linkedin.com/learning/paths/become-a-data-analyst</a></p>
 <h1 id="exam-prep"><span class="prefix"></span><span class="content">Exam Prep</span><span class="suffix"></span></h1>
 <h2 id="domain-1-connect-to-and-transform-data"><span class="prefix"></span><span class="content"><strong>Domain 1: Connect to and Transform Data</strong></span><span class="suffix"></span></h2>
 <p>1.1 Connect to Data Sources</p>
@@ -185,4 +260,31 @@
 4.3.   Manage Published workbooks</p>
 <p>4.3.1. Create alerts<br>
 4.3.2. Create <a href="http://subscriptionsedit.net/">subscriptionsedit.net/</a>).</p>
+<p>Here is a select listing of dashboards ANTHONY SMOAK has created over the years:  <a href="https://www.youtube.com/c/AnthonySmoak/">YouTube channel</a>.</p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2020/04/tableau-covid-dashboard-pt4-gif-proj.gif?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=mvpGTXRLIQc&amp;list=PLRNrM8SIqgQZI9NRhcu-jo-t7KaSvMTnL">Build a Tableau COVID-19 Dashboard</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2021/05/training-dashboard-for-social-media-gif2.gif?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=MFluvSKJXnI">Amazing Tableau Dashboard for Inspiration</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2021/09/youtube-share.jpg?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=Zg8m6Dfv714">Fix the Reset All Filters Button in Tableau</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2021/07/tableau-color-nonexisting-values-gif.gif?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=G0OmW9iMsfI">Assign Color to Non-existing values in Tableau</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2021/03/rwfd-help-desk-1-blog-gif.gif?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=lUgl_LKur-o&amp;list=PLRNrM8SIqgQYSpvhq4EPvebeaMe9uVRT0">Tableau Dashboard Project 1: VIZNESS FIRST (Help Desk)</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2021/06/stacked-bar-chart-social-gif.gif?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=x9viqF5LAJA">Stacked Bar Chart with Dynamic Totals in Tableau</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2020/11/tableau-actuals-to-target-project-gif-1.gif?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=_FNXqfoavG8">Tableau KPIs Quick and Easy (Profit vs Budget)</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2020/12/drill-from-region-to-state-gif.gif?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=pWosGj4IYrQ">Drill from Region to State Using Parameter Actions in Tableau</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2019/04/power-bi-yoy.png?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=F-GGF9OS5ys">Power BI Dashboard Tutorial: Year over Year Difference Analysis</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2020/03/power-bi-pop-out-slicer-short-gif.gif?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=94qRopgC_WY">Build a Power BI Pop Out Slicer Panel (Step by Step Instructions)</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2020/01/power-bi-drillthrough.jpg?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=fXSkad9Tw2k">Drillthrough in Power BI Desktop</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2019/06/power-bi-heat-map-thumbnail.png?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=E-bJk13NpXk">Create a Heat Map in Power BI</a></p>
+<p><img src="https://anthonysmoak.files.wordpress.com/2020/06/lakers-ribbon-chart-thumbnail.jpg?w=1024" alt=""></p>
+<p>View <a href="https://www.youtube.com/watch?v=5GD-SD7x_O4">Import Data from the Web with Power BI</a></p>
 
